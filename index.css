@@ -1,0 +1,230 @@
+html{
+  font-size: 10px;
+}
+@media(min-width:998px){
+  .first{
+       display: flex;
+    justify-content: space-around;
+
+  }
+
+}
+
+.first1{
+  padding-left: 3rem;
+ height:70rem;
+ width: 60rem;
+}
+.first1 b{
+  display: inline-block;
+  font-size: 7rem;
+  margin-top: 15rem;
+}
+.first1 h2{
+  font-size: 2rem;
+}
+.first1 b span{
+  color: green;
+}
+.first2{
+  background: url("photo.png") no-repeat;
+
+  height: 70rem;
+  width: 60rem;
+  background-size: 100%;
+}
+.buttons{
+  display: flex;
+  justify-content: space-around;
+}
+.button1{
+  width: 15rem;
+  height: 4rem;
+  border-radius: .6rem;
+  background-color: green;
+}
+.button2{
+  width: 15rem;
+  height: 4rem;
+  border-radius: .6rem;
+}
+@media(min-width:998px){
+  .sec{
+       display: flex;
+    justify-content: space-around;
+
+  }
+
+}
+.sec{
+  margin-top: 2rem;
+
+}
+.sec1 ,.sec2, .sec3{
+  height: 20rem;
+  width: 40rem;
+
+}
+.sec1{
+  background: url("1photo.png") no-repeat;
+  background-size: 100%;
+}
+.sec2{
+  background: url("2photo.png") no-repeat;
+  background-size: 100%;
+}
+.sec3{
+  background: url("3photo.png") no-repeat;
+  background-size: 100%;
+}
+.page2{
+  display: inline-block;
+  margin-top: 2rem;
+  height: 30rem;
+  width: 100%;
+
+}
+.page2 h2{
+  margin-left: 50%;
+}
+.page2 h1{
+  font-size: 5rem;
+  margin-left: 33%;
+}
+.button4{
+  background-color: green;
+  width: 15rem;
+  height: 4rem;
+  border-radius: .6rem;
+  margin-left: 45%;
+}
+.imag{
+  background: url("photo2.png") no-repeat;
+  width: 50rem;
+  height: 35rem;
+  background-size: 100%;
+  margin-left: 35%;
+}
+@media(min-width:998px){
+  .rec,.re1c{
+       display: flex;
+    justify-content: space-around;
+
+  }
+
+}
+.rec,.re1c{
+
+  margin-top: 1rem;
+  margin-left: 2rem;
+}
+.rec1,.rec2,.rec3,.rec4,.rec5,.rec6{
+
+  width: 40rem;
+  height: 30rem;
+}
+.rec1{
+  background: url("photo3.png") no-repeat;
+    background-size: 100%;
+}
+.rec2{
+  background: url("photo4.png") no-repeat;
+    background-size: 100%;
+}
+.rec3{
+  background: url("photo5.png") no-repeat;
+    background-size: 100%;
+}
+.rec4{
+  background: url("photo6.png") no-repeat;
+    background-size: 100%;
+}
+.rec5{
+  background: url("photo7.png") no-repeat;
+    background-size: 100%;
+}
+.rec6{
+  background: url("photo8.png") no-repeat;
+    background-size: 100%;
+}
+.demo h2{
+  margin-left: 50%;
+}
+.demo h1{
+  margin-left: 42%;
+  font-size: 5rem;
+}
+.demo h3{
+  margin-left: 38%;
+  font-size: 1.8rem;
+}
+.buttons9{
+  display: flex;
+  justify-content:center;
+}
+.qw{
+  font-size: 3rem;
+  margin-left: 20%;
+}
+@media(min-width:998px){
+  .land,.ing,.pag,.lend,.ng{
+       display: flex;
+    justify-content: center;
+
+  }
+
+}
+.land,.ing,.pag{
+  height: 20rem;
+
+ text-align: center;
+
+}
+.land1,.land2,.land3,.ing1,.ing2,.ing3,.pag1,.pag2,.pag3{
+  width: 30rem;
+   border: 2px solid grey;
+}
+.lend,.ng{
+  margin-top: 1rem;
+  height: 20rem;
+  
+}
+.ng{
+  margin-top: 0;
+}
+.er{
+  margin-left: 20%;
+  font-size: 3rem;
+}
+.lend1,.lend2,.lend3,.ng1,.ng2,.ng3{
+  width: 30rem;
+  border: 2px solid grey;
+  text-align: center;
+}
+.last{
+  margin-top: 9rem;
+}
+.last h3{
+  font-family: monospace;
+  font-size: 2rem;
+  margin-left: 48%;
+}
+.last h1{
+  margin-left: 35%;
+  font-size: 4rem;
+}
+.last h2{
+  margin-left: 27%;
+  font-size: 2rem;
+}
+.button5{
+  background-color: green;
+  width: 15rem;
+  height: 4rem;
+  border-radius: .6rem;
+  margin-left: 50%;
+}
+.ty{
+  margin-left: 42%;
+  font-size: 2rem;
+}
